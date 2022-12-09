@@ -1,4 +1,4 @@
-viola
+voila
 jupyterlab~=3.0
 bqplot
 scipy
